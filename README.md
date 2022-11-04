@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - This accessibility refactor was performed in order to further expand and exercise my knowledge of HTML and CSS for a live webpage.
 - By removing div elements, this website's codebase is both more easily legible and malleable for future programmers.
 - Through the completion of this refactor, I became more familiar with the intercommunication between an HTML file and its corresponding CSS style sheet.
